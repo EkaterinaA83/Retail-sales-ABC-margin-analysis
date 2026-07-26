@@ -45,3 +45,14 @@ Joined on `product_id`
 
 Python · Pandas · Seaborn · Matplotlib
 
+## My Other Projects
+
+* **[Sales & Marketing Performance Dashboard — Power BI](https://github.com/EkaterinaA83/Sales-marketing-dashboard-Power-BI)**
+  Capstone project: Power BI dashboard analyzing multi-year orders and completed projects for a digital-marketing agency (DAX, Power Query, Data Modeling).
+* **[Customer Segmentation — Statistical Significance Analysis](https://github.com/EkaterinaA83/Customer-segmentation-statistical-analysis)**
+  Statistical analysis using Python (ANOVA, Tukey HSD) to evaluate whether a four-segment customer classification should be redesigned or further split by education level.
+* **[Automated Invoice Reconciliation Tool](https://github.com/EkaterinaA83/Invoice-reconciliation-automation)**
+  A Python/Pandas automation that replaces a manual monthly reconciliation process between EDI invoices and supplier delivery notes, built and used in a live operational role.
+* **[DataScience](https://github.com/EkaterinaA83/DataScience)**
+  Forked repository for educational purposes and continuous learning.
+
