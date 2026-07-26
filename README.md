@@ -16,7 +16,7 @@ varies by category, and which subcategories deserve the most inventory/promotion
 - `orders.xlsx` — order-level transactions: quantity, regular price, actual price, cost price, order
   timestamp
 
-Joined on `product_id`. *Sample data files are not included in this repository.*
+Joined on `product_id`
 
 ## Approach
 
@@ -45,8 +45,3 @@ Joined on `product_id`. *Sample data files are not included in this repository.*
 
 Python · Pandas · Seaborn · Matplotlib
 
-## Note
-
-Chart images embedded in the notebook are from the original analysis run and may still show a couple
-of Russian-language axis labels; the code itself has been updated to produce English labels the next
-time it's executed against the source files.
